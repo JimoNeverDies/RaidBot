@@ -20,7 +20,7 @@
 <br><br>
 <pre>+ Install the requirements </pre>
 <br>
-<pre>+ Run Start.bay</pre>
+<pre>+ Run Start.bat</pre>
 <br>
 
 -----
@@ -29,7 +29,7 @@
 
 <br><br>
 * ***Any questions you have***
-* ***https://discord.com/invite/lowcost***
+* ***https://discord.com/invite/nationsquad***
 <br><br>
 
 -----
