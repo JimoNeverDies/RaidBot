@@ -1,0 +1,4 @@
+discord
+os
+asyncio
+colorama
