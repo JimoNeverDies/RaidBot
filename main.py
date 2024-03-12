@@ -18,7 +18,6 @@ image_icono_url = "https://i.postimg.cc/rskfv2TX/Black-and-White-Monogram-Busine
 server_name = "Paco Alcazer 💀"# SERVER NAME
 #-------------------------------------------------------------------------------
 
-
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix=f"{Prefix}", intents=discord.Intents.all())
 sessions = requests.Session()
